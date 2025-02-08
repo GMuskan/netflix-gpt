@@ -20,7 +20,7 @@
 - unsubscribed to the onauthstateChanged callback when header component unmounts.
 - Register TMDP API & create app and get access token
 - Get data from TMDB now playing movies list api.
-- custome hook for now playing movies
+- custom hook for now playing movies
 - create movies slice
 - updated store with movies data
 - planning for main container and secondary conatainer.
@@ -28,6 +28,14 @@
 - update store with trailer video data
 - embedded the youtube video and make it autoplay and mute
 - configure fontawesome for react anmd added fontawesome icons.
+
+- build secondary component
+- build movie list
+-build movie card
+- tmdb image cdn url
+- made the browse page amazing with tailwind css
+- usePopularmovies custom hooks
+
 
 
 # Features:
